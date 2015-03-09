@@ -12,7 +12,8 @@
  *   See T. Cormen, C. Leiserson, R. Rivest, C. Stein -
  *          Introduction to Algothithms, 2nd edition, Part II, Chapter 9.1.
  *
- * Copyright Joy Developing.
+ * Author:
+ *   Alexey Rybakov
  */
 
 #include <iostream>

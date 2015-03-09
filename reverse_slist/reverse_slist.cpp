@@ -10,7 +10,8 @@
  * Note:
  *   Algorithm compexity should be O(N).
  *
- * Copyright Joy Developing.
+ * Author:
+ *   Alexey Rybakov
  */
 
 #include <iostream>
